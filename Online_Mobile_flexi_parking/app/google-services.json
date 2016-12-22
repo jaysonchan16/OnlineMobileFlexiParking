@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "826512691674",
+    "firebase_url": "https://onlineflexiparking.firebaseio.com",
+    "project_id": "onlineflexiparking",
+    "storage_bucket": "onlineflexiparking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826512691674:android:259b5380abf03ca2",
+        "android_client_info": {
+          "package_name": "com.google.online_mobile_flexi_parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826512691674-khnueoipjg96hqj1pdg0h2ug9r8o8p8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.online_mobile_flexi_parking",
+            "certificate_hash": "66F56F502A3F9E48BA21F3D78EFD29D8ACD6593E"
+          }
+        },
+        {
+          "client_id": "826512691674-6k3b4ijjoiqqa01agejhsc7taajil056.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo_cXqAjzxkQ5H_Tk0MgFtvbb5SjZeMB8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826512691674-6k3b4ijjoiqqa01agejhsc7taajil056.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
